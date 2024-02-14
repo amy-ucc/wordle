@@ -1,0 +1,27 @@
+TODOs:
+
+1) When two letters are in the answer
+
+Guess: TASTY
+Answer: TRIST  
+
+The first T in guess will be green, the second T in guess will not be blue
+
+Guess: TESTS - all blue ( the two Ts where blue when only first should be, 
+                the 2 S's were blue when only 1 should be)
+Answer: EXIST
+
+
+2) If a word is guessed then it will allow another word to be guessed. - GOOD NOW
+
+3) Fix the selection of the edit box weirdness - GOOD ENOUGH NOW
+
+4) Style Better - DONE
+
+5) Add favicon - DONE
+
+6) Comment code - DONE
+
+7) Adhere to style guide - DONE
+
+8) Delete any non-necessary variable or code - DONE

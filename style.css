@@ -1,0 +1,68 @@
+/**
+ * File Name: style.css
+ * Description: This file implements defines all the styles used in the application.
+ * Author: Amy Uccello
+ * Student Number: 251236036
+ * Assignment Number: 1
+ * Class: CS3307
+ * Date Created: September 30, 2023
+*/
+
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+    margin: 1 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+
+.guess {
+    background-color: blanchedalmond;
+    font-size: 30px;
+}
+
+.currentLetter {
+    background-color: aquamarine;
+    font-size: 30px;
+}
+
+.correctLetterSpot {
+    font-size: 30px;
+    font-weight: bold;
+    color: green;
+}
+
+.correctLetterWrongSpot {
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+}
+
+.button {
+    font: bold 16px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+}
+
+.edit {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.message {
+    font-size: 18px;
+}
+
+.title {
+    font-size: 25px;
+    font-weight: bold;
+}
